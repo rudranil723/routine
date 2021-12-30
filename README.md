@@ -2,6 +2,7 @@
 
 Routine Management System
 1) Algorithm :-
+
  Data Structure used in the program is an Array .
 1. START
 2. Declare class “college”
