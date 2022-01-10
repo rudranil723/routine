@@ -1,5 +1,10 @@
 # routine
 
+team name: coderex
+team member: Tania Das, Rudranil Shil
+
+
+
 Routine Management System
 1) Algorithm :-
 
